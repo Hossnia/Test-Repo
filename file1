@@ -1,3 +1,6 @@
-No content to add for now.
-Will add content when we will have something
-Practice practice practice. 
+Add some content on file1
+Make the changes in the file
+Add the file in the tracking area by using the git add command
+Commit the changes in the local repository by using the git commit command
+push these changes in the remote repository using the git push -u branchname command
+Before the step above, add the Rep site using the git remote add origin URL command
